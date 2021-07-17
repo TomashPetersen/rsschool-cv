@@ -7,7 +7,7 @@
    1. Email: d.g.volkovbz@gmail.com
    2. Telegram: @denisVolkovG
 
-3. Shortly about myself. I'm graduated civil aviation pilot. After 2014 I've ended the aviation career and was growing up my the small business. I made decision to switch on my career about 1 year ago to build on new career branch. I hardly learn WEB-developing approximately 1 month using all my best to reach the goal - to get an offer from IT-company. Spending about 5 hours in day I learn coding, prefering HTML, CSS, JS, PHP and related for ones technologies, 7 days in week. I'm happy to get new knowledge everyday, It helps me to do my learning fast and effective
+3. Briefly about myself. I'm graduated civil aviation pilot. After 2014 I've ended the aviation career and was growing up my the small business. I made decision to switch on my career about 1 year ago to build on new career branch. I hardly learn WEB-developing approximately 1 month using all my best to reach the goal - to get an offer from IT-company. Spending about 5 hours in day I learn coding, prefering HTML, CSS, JS, PHP and related for ones technologies, 7 days in week. I'm happy to get new knowledge everyday, It helps me to do my learning fast and effective
 
 4. The main technologies I use:
 
@@ -49,4 +49,4 @@
 
 7. I graduated High Civil Aviation School at Ulyanovsk and passed ICAO courses where I got 4 level of English language (intermediate)
 
-8. I can speak fluently in English and I maintain my language level by everyday training as well I do exercise to writing down and read documentation in English. I have 3 years experience to communicate in English on international flight.
+8. I can speak fluently in English and I maintain my language level by everyday training as well I do exercise to writing down and read documentation in English. I have 3 years experience to communicate in English on international flight
